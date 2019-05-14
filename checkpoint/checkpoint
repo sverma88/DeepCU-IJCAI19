@@ -1,0 +1,6 @@
+model_checkpoint_path: "/flush4/ver100/TKDE/DeepCU-master/Trained_chk/0.65/DeepCU_0.65-150"
+all_model_checkpoint_paths: "/flush4/ver100/TKDE/DeepCU-master/Trained_chk/0.2/DeepCU_0.2-119"
+all_model_checkpoint_paths: "/flush4/ver100/TKDE/DeepCU-master/Trained_chk/0.3/DeepCU_0.3-40"
+all_model_checkpoint_paths: "/flush4/ver100/TKDE/DeepCU-master/Trained_chk/0.4/DeepCU_0.4-89"
+all_model_checkpoint_paths: "/flush4/ver100/TKDE/DeepCU-master/Trained_chk/0.45/DeepCU_0.45-69"
+all_model_checkpoint_paths: "/flush4/ver100/TKDE/DeepCU-master/Trained_chk/0.65/DeepCU_0.65-150"
