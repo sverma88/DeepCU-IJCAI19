@@ -24,6 +24,7 @@ DeepCU is written in python3 with some code fragments copied from DCGAN implemen
   
 # Future research (ideas)
 - Better Fusion scheme for utilizing both common and unique latent information
+- Utilize Sequence information for sentiment prediction
 - Cross Data Generelaization Performance
 
 
