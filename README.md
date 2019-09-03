@@ -10,7 +10,7 @@ When using this code, or the ideas of DeepNCM, please cite the following paper (
     @INPROCEEDINGS{guerriero18openreview,
      author = {Sunny Verma and Chen Wang and Liming Zhu and Wei Liu},
      title = DeepCU: Integrating both Common and Unique Latent Information for Multimodal Sentiment Analysis},
-    booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, {IJCAI} 2019, Macao},
+     booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, {IJCAI} Macao},
      pages     = {3627--3634},
      year      = {2019},
      }
