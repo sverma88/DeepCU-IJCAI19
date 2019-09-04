@@ -5,9 +5,9 @@ DeepCU: Integrating Both Common and Unique Latent Information for Multimodal Sen
 ![alt text](https://github.com/sverma88/DeepCU-IJCAI19/blob/master/figures/DeepCU.jpg)
 
 ## Citation
-When using this code, or the ideas of DeepNCM, please cite the following paper ([openreview](https://openreview.net/forum?id=rkPLZ4JPM))
+When using this code, or the ideas of DeepCU, please cite the following paper
 
-    @INPROCEEDINGS{guerriero18openreview,
+    @INPROCEEDINGS{Verma0ZL19ijcai19,
      author = {Sunny Verma and Chen Wang and Liming Zhu and Wei Liu},
      title = DeepCU: Integrating both Common and Unique Latent Information for Multimodal Sentiment Analysis},
      booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, {IJCAI} Macao},
