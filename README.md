@@ -28,5 +28,5 @@ DeepCU is written in python3 with some code fragments copied from DCGAN implemen
 - Cross Data Generelaization Performance
 
 
-Please contact me when you're interested to collaborate on this!
+Please contact either Sunny Verma or Wei Liu at t firstname.lastname@uts.edu.au if you're interested to collaborate on this!
 
