@@ -1,5 +1,5 @@
 # DeepCU-IJCAI19
-DeepCU: [Integrating Both Common and Unique Latent Information for Multimodal Sentiment Analysis, IJCAI-19](https://www.ijcai.org/proceedings/2019/503)
+[DeepCU: Integrating Both Common and Unique Latent Information for Multimodal Sentiment Analysis, IJCAI-19](https://www.ijcai.org/proceedings/2019/503)
 
 
 ![alt text](https://github.com/sverma88/DeepCU-IJCAI19/blob/master/figures/DeepCU.jpg)
