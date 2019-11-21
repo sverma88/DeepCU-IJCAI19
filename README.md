@@ -1,5 +1,5 @@
 # DeepCU-IJCAI19
-DeepCU: Integrating Both Common and Unique Latent Information for Multimodal Sentiment Analysis, IJCAI-19
+DeepCU: [Integrating Both Common and Unique Latent Information for Multimodal Sentiment Analysis, IJCAI-19](https://www.ijcai.org/proceedings/2019/503)
 
 
 ![alt text](https://github.com/sverma88/DeepCU-IJCAI19/blob/master/figures/DeepCU.jpg)
@@ -28,5 +28,5 @@ DeepCU is written in python3 with some code fragments copied from DCGAN implemen
 - Cross Data Generelaization Performance
 
 
-Please contact either Sunny Verma or Wei Liu at t firstname.lastname@uts.edu.au if you're interested to collaborate on this!
+Please contact either Sunny Verma or Wei Liu at firstname.lastname@uts.edu.au if you're interested to collaborate on this!
 
